@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>vex_soluciones_mercado_libre</name>
+	<displayName><![CDATA[vex mercado libre]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[el mejor complemento para fusionar tu web mercado libre con tu tienda online]]></description>
+	<author><![CDATA[vex_soluciones]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
